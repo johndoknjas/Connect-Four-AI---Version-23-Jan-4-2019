@@ -1,0 +1,800 @@
+# depslib dependency file v1.0
+1525398982 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 1 - april 25, 2018\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	"position.h"
+
+1524722646 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 1 - april 25, 2018\board.h
+	<vector>
+
+1525396560 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 1 - april 25, 2018\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+
+1524725800 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 1 - april 25, 2018\myenums.h
+
+1525515308 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 2 (not calculating 1st position) - may 5, 2018\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	"position.h"
+
+1525512705 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 2 (not calculating 1st position) - may 5, 2018\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+
+1525515308 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 2 (alpha-beta pruning) - may 5, 2018\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	"position.h"
+
+1525681078 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 2 (alpha-beta pruning) - may 5, 2018\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+
+1525839020 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 3 (full alpha-beta pruning) - may 8, 2018\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	"position.h"
+
+1525916358 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 3 (full alpha-beta pruning) - may 8, 2018\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+
+1526022444 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 4 (small fixes to when alpha and beta are reset) - may 9, 2018\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	"position.h"
+
+1525943961 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 4 (small fixes to when alpha and beta are reset) - may 9, 2018\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+
+1527018460 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 5 (re-adding randomization) - may 10, 2018\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	"position.h"
+
+1527018648 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\tic-tac-toe\version 5 (re-adding randomization) - may 10, 2018\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+
+1527211697 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 1 - may 24, 2018\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	"position.h"
+
+1527815543 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 1 - may 24, 2018\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+
+1529488083 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 2 - june 2, 2018 - starting minimax function\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	"position.h"
+
+1529203729 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 2 - june 2, 2018 - starting minimax function\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+
+1529630124 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 3 - june 21, 2018 - not thinking on user's turn\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	"position.h"
+
+1529623947 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 3 - june 21, 2018 - not thinking on user's turn\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+
+1529911811 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 4 - june 23, 2018 - smart evaluation\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	"position.h"
+
+1529909823 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 4 - june 23, 2018 - smart evaluation\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+
+1530145920 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 5 - june 25, 2018 - smart evaluation() function\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	"position.h"
+
+1530166984 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 5 - june 25, 2018 - smart evaluation() function\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+
+1530646538 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 6 - july 1, 2018 - including squares joining a x-in-a-row\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	"position.h"
+
+1530577836 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 6 - july 1, 2018 - including squares joining a x-in-a-row\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+
+1530577813 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 6 - july 1, 2018 - including squares joining a x-in-a-row\notes.cpp
+
+1531426472 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 7 - july 3, 2018 - small changes\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	"position.h"
+
+1530916948 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 7 - july 3, 2018 - small changes\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+
+1530925729 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 7 - july 3, 2018 - small changes\notes.cpp
+
+1531426472 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 8 - july 15, 2018 - quiescence search\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	"position.h"
+
+1531726702 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 8 - july 15, 2018 - quiescence search\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+
+1531726221 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 8 - july 15, 2018 - quiescence search\notes.cpp
+
+1531426472 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 9 - july 16, 2018 - optimizing possible_moves vector\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	"position.h"
+
+1531773625 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 9 - july 16, 2018 - optimizing possible_moves vector\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+
+1531862329 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 9 - july 16, 2018 - optimizing possible_moves vector\notes.cpp
+
+1531426472 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 10 - aug 21, 2018 - constant = b^d\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	"position.h"
+
+1531773625 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 10 - aug 21, 2018 - constant = b^d\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+
+1531426472 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 10 - aug 21, 2018 - dead column\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	"position.h"
+
+1534889549 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 10 - aug 21, 2018 - dead column\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+
+1534888966 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 10 - aug 21, 2018 - dead column\notes.cpp
+
+1531426472 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 10 - aug 21, 2018 - judging if squares amplifying 2-in-a-rows can ever make a 4-in-a-row\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	"position.h"
+
+1534889549 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 10 - aug 21, 2018 - judging if squares amplifying 2-in-a-rows can ever make a 4-in-a-row\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+
+1534893891 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 10 - aug 21, 2018 - judging if squares amplifying 2-in-a-rows can ever make a 4-in-a-row\notes.cpp
+
+1531426472 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 11 - oct 6, 2018 - finished column\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	"position.h"
+
+1538909059 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 11 - oct 6, 2018 - finished column\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+
+1538908982 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\version 11 - oct 6, 2018 - finished column\notes.cpp
+
+1531426472 source:c:\users\johnd\documents\fun coding projects\connect four\version 12 - oct 13, 2018 - modest alpha-beta adjustment\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	"position.h"
+
+1539474428 c:\users\johnd\documents\fun coding projects\connect four\version 12 - oct 13, 2018 - modest alpha-beta adjustment\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+
+1539511915 source:c:\users\johnd\documents\fun coding projects\connect four\version 13 - oct 13, 2018 - transposition table\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	"position.h"
+
+1539589593 c:\users\johnd\documents\fun coding projects\connect four\version 13 - oct 13, 2018 - transposition table\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+
+1539580667 source:c:\users\johnd\documents\fun coding projects\connect four\version 13 - oct 13, 2018 - transposition table\notes.cpp
+
+1539511915 source:c:\users\johnd\documents\fun coding projects\connect four\version 14 - oct 16, 2018 - transposition table\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	"position.h"
+
+1539750326 c:\users\johnd\documents\fun coding projects\connect four\version 14 - oct 16, 2018 - transposition table\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+
+1539750139 source:c:\users\johnd\documents\fun coding projects\connect four\version 14 - oct 16, 2018 - transposition table\notes.cpp
+
+1542063640 source:c:\users\johnd\documents\fun coding projects\connect four\version 15 - nov 10, 2018 - iterative deepening\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	"position.h"
+
+1542066795 c:\users\johnd\documents\fun coding projects\connect four\version 15 - nov 10, 2018 - iterative deepening\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+
+1541893541 source:c:\users\johnd\documents\fun coding projects\connect four\version 15 - nov 10, 2018 - iterative deepening\notes.cpp
+
+1542063640 source:c:\users\johnd\documents\fun coding projects\connect four\version 16 - nov 17, 2018 - different starting positions - no change to engine itself!\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	"position.h"
+
+1542066795 c:\users\johnd\documents\fun coding projects\connect four\version 16 - nov 17, 2018 - different starting positions - no change to engine itself!\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+
+1542783577 source:c:\users\johnd\documents\fun coding projects\connect four\version 16 - nov 17, 2018 - different starting positions (enhancing user experience)\notes.cpp
+
+1542566047 source:c:\users\johnd\documents\fun coding projects\connect four\version 16 - nov 17, 2018 - different starting positions (enhancing user experience)\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+	"position.h"
+
+1542514769 c:\users\johnd\documents\fun coding projects\connect four\version 16 - nov 17, 2018 - different starting positions (enhancing user experience)\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+
+1542566047 source:c:\users\johnd\documents\fun coding projects\connect four\version 17 - dec 19, 2018 - lowering value of amplifying square if above another amplifying square\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+	"position.h"
+
+1545288424 c:\users\johnd\documents\fun coding projects\connect four\version 17 - dec 19, 2018 - lowering value of amplifying square if above another amplifying square\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+
+1545288400 source:c:\users\johnd\documents\fun coding projects\connect four\version 17 - dec 19, 2018 - lowering value of amplifying square if above another amplifying square\notes.cpp
+
+1542566047 source:c:\users\johnd\documents\fun coding projects\connect four\version 18 - dec 22, 2018 - adjusting 0.5 parameter to 0.25\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+	"position.h"
+
+1545502229 c:\users\johnd\documents\fun coding projects\connect four\version 18 - dec 22, 2018 - adjusting 0.5 parameter to 0.25\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+
+1545432869 source:c:\users\johnd\documents\fun coding projects\connect four\version 18 - dec 22, 2018 - adjusting 0.5 parameter to 0.25\notes.cpp
+
+1542566047 source:c:\users\johnd\documents\fun coding projects\connect four\version 19 - dec 22, 2018 - write improvement here\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+	"position.h"
+
+1545502229 c:\users\johnd\documents\fun coding projects\connect four\version 19 - dec 22, 2018 - write improvement here\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+
+1542566047 source:c:\users\johnd\documents\fun coding projects\connect four\version 19 - dec 22, 2018 - including squares joining two individual pieces\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+	"position.h"
+
+1545532498 c:\users\johnd\documents\fun coding projects\connect four\version 19 - dec 22, 2018 - including squares joining two individual pieces\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+
+1545530923 source:c:\users\johnd\documents\fun coding projects\connect four\version 19 - dec 22, 2018 - including squares joining two individual pieces\notes.cpp
+
+1545855757 source:c:\users\johnd\documents\fun coding projects\connect four\version 19 - dec 22, 2018 - adding a second next_square field to treasure_spot struct\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+	"position.h"
+
+1546116395 c:\users\johnd\documents\fun coding projects\connect four\version 19 - dec 22, 2018 - adding a second next_square field to treasure_spot struct\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"tool.h"
+
+1545965543 source:c:\users\johnd\documents\fun coding projects\connect four\version 19 - dec 22, 2018 - adding a second next_square field to treasure_spot struct\notes.cpp
+
+1546036751 c:\users\johnd\documents\fun coding projects\connect four\version 19 - dec 22, 2018 - adding a second next_square field to treasure_spot struct\tool.h
+
+1545855757 source:c:\users\johnd\documents\fun coding projects\connect four\version 20 - dec 29, 2018 - counting squares between two single pieces\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+	"position.h"
+
+1546244164 c:\users\johnd\documents\fun coding projects\connect four\version 20 - dec 29, 2018 - counting squares between two single pieces\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"tool.h"
+
+1546219687 c:\users\johnd\documents\fun coding projects\connect four\version 20 - dec 29, 2018 - counting squares between two single pieces\tool.h
+
+1546194421 source:c:\users\johnd\documents\fun coding projects\connect four\version 20 - dec 29, 2018 - counting squares between two single pieces\notes.cpp
+
+1546559614 source:c:\users\johnd\documents\fun coding projects\connect four\version 21 - jan 3, 2019 - find_best_move is practically tougher\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+	"position.h"
+
+1546629423 c:\users\johnd\documents\fun coding projects\connect four\version 21 - jan 3, 2019 - find_best_move is practically tougher\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"tool.h"
+
+1546219687 c:\users\johnd\documents\fun coding projects\connect four\version 21 - jan 3, 2019 - find_best_move is practically tougher\tool.h
+
+1546616300 source:c:\users\johnd\documents\fun coding projects\connect four\version 21 - jan 3, 2019 - find_best_move is practically tougher\notes.cpp
+
+1546559614 source:c:\users\johnd\documents\fun coding projects\connect four\version 22 - jan 4, 2019 - increasing search in quick function\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+	"position.h"
+
+1546647312 c:\users\johnd\documents\fun coding projects\connect four\version 22 - jan 4, 2019 - increasing search in quick function\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"tool.h"
+
+1546219687 c:\users\johnd\documents\fun coding projects\connect four\version 22 - jan 4, 2019 - increasing search in quick function\tool.h
+
+1546645369 source:c:\users\johnd\documents\fun coding projects\connect four\version 22 - jan 4, 2019 - increasing search in quick function\notes.cpp
+
+1546748825 source:c:\users\johnd\documents\fun coding projects\connect four\version 23 - jan 4, 2019 - refactoring playout_game in main.cpp\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<memory>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<climits>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+	"position.h"
+
+1546729706 c:\users\johnd\documents\fun coding projects\connect four\version 23 - jan 4, 2019 - refactoring playout_game in main.cpp\position.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"tool.h"
+
+1546219687 c:\users\johnd\documents\fun coding projects\connect four\version 23 - jan 4, 2019 - refactoring playout_game in main.cpp\tool.h
+
+1546729650 source:c:\users\johnd\documents\fun coding projects\connect four\version 23 - jan 4, 2019 - refactoring playout_game in main.cpp\notes.cpp
+

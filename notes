@@ -1,0 +1,39 @@
+// Version 6: The computer will examine squares that, if filled, connect a 2-in-a-row with a single piece.
+// This creates a 4-in-a-row.
+// Example:
+         'C'
+      'C'
+   ' '         // comp would value this square highly, as if it completes a 3-in-a-row into a 4-in-a-row.
+'C'
+
+// TO DO:
+
+    // The 4 amplifying vectors should instead store "treasure_square" objects. A "treasure_square" object has these attributes:
+        // A coordinate object, representing the square.
+        // A coordinate object, representing the next square after, in the appropriate direction as in x-in-a-row was headed.
+
+    // When adding to an amplifying vector, make sure to find both of these. If the next square is out of bounds, don't worry
+    // about this when adding to the vector. Don't check for it yet (this is handled by the smart evaluation functions).
+
+    // The next_square attribute is only useful when running through the 2-in-a-row amplifying vectors. For the 3-in-a-row
+    // amplifying vectors, if the square ever gets filled then ==> wins the game. It doesn't matter if the next square has
+    // a piece, making a 5-in-a-row. 4-in-a-row <==> 5-in-a-row. EXAMPLE:
+
+                 'C'                               'C'
+              'C'                               'C'
+           'C'             <==>              'C'
+        ' '                               ' '        // In both cases, if this square is filled then ==> wins the game.
+     'C'                               ' '           // The state of next_square is irrelevant here.
+
+    // The smart evaluation functions employed at the depth limit should run through the amplifying vectors for 2-in-a-rows:
+        // If a treasure_square for one of these 2-in-rows is empty AND the next square contains the same piece as those
+        // in the 2-in-a-row, then it is like the first diagram. Count the square as if it completes a 3-in-a-row into a 4-row.
+        // Then, fill in the square with the arbitrary_placeholder char ('A'), since filling it ==> wins the game.
+        // Note that you MUST check that the next_square is in-bounds! This was NOT already checked.
+
+        // If the treasure_square is empty but the next square doesn't contain the same piece as in the 2-in-a-row,
+        // then just add the "little_amount" to the evaluation, since the square just turns a 2-in-a-row into a 3-in-a-row.
+        // As usual, leave the square as it is (don't fill with the arbitrary placeholder 'A').
+        // As usual, this procedure should be done last in the function. Always look at ways to make 4-in-a-rows before
+        // seeing how to complete 2-in-a-rows.
+
